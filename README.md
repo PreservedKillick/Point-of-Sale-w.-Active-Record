@@ -20,5 +20,6 @@ Make a point of sale (POS) system for a convenience store. A POS is a system tha
 *  As a cashier, I want to choose which products and how many of each a customer is purchasing, so that I can see what their total cost is.
 
 
+***not complete***
 
 *  As a customer, I want to see a receipt on the screen, so that I can make sure that the cashier rang me up correctly and told me the right total. I would like the cashier to be able to print out the receipt, but that ain't gonna happen ;)
