@@ -4,6 +4,7 @@ Point of sale
 March 25, 2014
 
 Epicodus: Week6, Day2
+
 2nd day with Active Record
 
 ********************
